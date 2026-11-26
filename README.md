@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+open-source+tools+for+defenders+%F0%9F%9B%A1%EF%B8%8F;SIEM+%2F+SOAR+%E2%80%A2+Google+SecOps+%E2%80%A2+YARA-L;Database+Activity+Monitoring+%E2%80%A2+IBM+Guardium;HSM+%26+Key+Management+%E2%80%A2+Thales+Luna;Detect+%E2%86%92+Triage+%E2%86%92+Respond" alt="Typing intro"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<your-linkedin>/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-ahmed-cdc/)
 [![Detection Gallery](https://img.shields.io/badge/Detection%20Gallery-Browse%20237%20rules-1a5fd0?style=for-the-badge&logo=googlecloud&logoColor=white)](https://<your-username>.github.io/open-yaral-detections/)
 
 </div>
