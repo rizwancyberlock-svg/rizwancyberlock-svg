@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+open-source+tools+for+defenders+%F0%9F%9B%A1%EF%B8%8F;SIEM+%2F+SOAR+%E2%80%A2+Google+SecOps+%E2%80%A2+YARA-L;Database+Activity+Monitoring+%E2%80%A2+IBM+Guardium;HSM+%26+Key+Management+%E2%80%A2+Thales+Luna;Detect+%E2%86%92+Triage+%E2%86%92+Respond" alt="Typing intro"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-ahmed-cdc/)
-[![Detection Gallery](https://img.shields.io/badge/Detection%20Gallery-Browse%20237%20rules-1a5fd0?style=for-the-badge&logo=googlecloud&logoColor=white)](https://<your-username>.github.io/open-yaral-detections/)
+[![Detection Gallery](https://img.shields.io/badge/Detection%20Gallery-Browse%20237%20rules-1a5fd0?style=for-the-badge&logo=googlecloud&logoColor=white)](https://rizwancyberlock-svg.github.io/open-yaral-detections/)
 
 </div>
 
@@ -26,19 +26,19 @@ I'm a **Security Engineer on the defender side**. I build detections, design SOC
 <tr>
 <td width="33%" valign="top">
 
-### 🛡️ [open-yaral-detections](https://github.com/<your-username>/open-yaral-detections)
+### 🛡️ [open-yaral-detections](https://github.com/rizwancyberlock-svg/open-yaral-detections)
 The largest open YARA-L 2.0 library for Google SecOps: **237 ATT&CK-mapped rules** across Windows, Linux, AWS, Azure, Entra, GCP, FortiGate, Cisco, CrowdStrike, SentinelOne, Defender, F5, Guardium, DLP, CyberArk, ARCON and Thales HSMs. Includes 7 dashboards and a searchable web gallery.
 
 </td>
 <td width="33%" valign="top">
 
-### 🧭 [soc-triage-playbooks](https://github.com/<your-username>/soc-triage-playbooks)
+### 🧭 [soc-triage-playbooks](https://github.com/rizwancyberlock-svg/soc-triage-playbooks)
 **23 decision-tree playbooks** that turn an alert into a verdict: Mermaid flowcharts, UDM pivot queries, TP/FP indicators, containment and escalation steps. Covers identity, endpoint, cloud, network, DAM, DLP, PAM and HSM.
 
 </td>
 <td width="33%" valign="top">
 
-### 🪨 [rosetta-siem](https://github.com/<your-username>/rosetta-siem)
+### 🪨 [rosetta-siem](https://github.com/rizwancyberlock-svg/rosetta-siem)
 Translate detection queries between **YARA-L ⇄ KQL ⇄ SPL ⇄ AQL**, in any direction. Zero dependencies, round-trip tested, and it warns explicitly instead of silently mistranslating. Converts 235 of the 237 rules in the library.
 
 </td>
@@ -78,8 +78,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwancyberlock-svg&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwancyberlock-svg&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
 
 </div>
 
