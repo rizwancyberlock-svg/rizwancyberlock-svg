@@ -47,7 +47,7 @@ Onboard log sources into **Google SecOps, Sentinel, Splunk and QRadar** the righ
 <td width="33%" valign="top">
 
 ### 🧭 [soc-triage-playbooks](https://github.com/rizwancyberlock-svg/soc-triage-playbooks)
-**60 decision-tree playbooks** that turn an alert into a verdict, with Sentinel KQL and SecOps UDM queries, TP/FP indicators, containment and escalation. Ships as a printable **SOC IR Field Guide** (PDF). Covers identity, email, SaaS, endpoint, cloud, network, DAM, DLP, PAM and HSM.
+**90 decision-tree playbooks** that turn an alert into a verdict, with Sentinel KQL and SecOps UDM queries, TP/FP indicators, containment and escalation. Ships as a printable **SOC IR Field Guide** (PDF and website). Covers AD tier 0, identity, email, SaaS, endpoint, ESXi, Kubernetes, cloud, **AI & agents**, DAM, DLP, PAM and HSM.
 
 </td>
 <td width="33%" valign="top">
