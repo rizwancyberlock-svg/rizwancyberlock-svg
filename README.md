@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+open-source+tools+for+defenders+%F0%9F%9B%A1%EF%B8%8F;SIEM+%2F+SOAR+%E2%80%A2+Google+SecOps+%E2%80%A2+YARA-L;Database+Activity+Monitoring+%E2%80%A2+IBM+Guardium;HSM+%26+Key+Management+%E2%80%A2+Thales+Luna;Detect+%E2%86%92+Triage+%E2%86%92+Respond" alt="Typing intro"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwan-ahmed-cdc/)
-[![Detection Gallery](https://img.shields.io/badge/Detection%20Gallery-Browse%20298%20rules-1a5fd0?style=for-the-badge&logo=googlecloud&logoColor=white)](https://rizwancyberlock-svg.github.io/open-yaral-detections/)
+[![Detection Gallery](https://img.shields.io/badge/Detection%20Gallery-Browse%20312%20rules-1a5fd0?style=for-the-badge&logo=googlecloud&logoColor=white)](https://rizwancyberlock-svg.github.io/open-yaral-detections/)
 
 </div>
 
@@ -27,13 +27,13 @@ I'm a **Security Engineer on the defender side**. I build detections, design SOC
 <td width="33%" valign="top">
 
 ### 🛡️ [open-yaral-detections](https://github.com/rizwancyberlock-svg/open-yaral-detections)
-The largest open YARA-L 2.0 library for Google SecOps: **298 ATT&CK-mapped rules** across Windows, Linux, Microsoft 365, Defender, Azure, Entra, AWS, GCP, FortiGate, Cisco, CrowdStrike, SentinelOne, F5, Guardium, DLP, CyberArk, ARCON and Thales HSMs. Includes 7 dashboards and a searchable web gallery.
+The largest open YARA-L 2.0 library for Google SecOps: **312 ATT&CK-mapped rules** across Windows, Linux, Microsoft 365, Defender, Azure, Entra, AWS, GCP, FortiGate, Cisco, CrowdStrike, SentinelOne, F5, Guardium, DLP, CyberArk, ARCON and Thales HSMs. Includes 7 dashboards and a searchable web gallery.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🔷 [sentinel-kql-detections](https://github.com/rizwancyberlock-svg/sentinel-kql-detections)
-**191 Microsoft Sentinel analytics rules** for Entra ID, Defender XDR, Defender for Office 365, Microsoft 365, Azure, AWS, GCP and network data. Every query is validated against Microsoft's Sentinel schemas in CI.
+**208 Microsoft Sentinel analytics rules** for Entra ID, Defender XDR, Defender for Office 365, Microsoft 365, Azure, AWS, GCP and network data. Every query is validated against Microsoft's Sentinel schemas in CI.
 
 </td>
 <td width="33%" valign="top">
@@ -53,7 +53,7 @@ Onboard log sources into **Google SecOps, Sentinel, Splunk and QRadar** the righ
 <td width="33%" valign="top">
 
 ### 🪨 [rosetta-siem](https://github.com/rizwancyberlock-svg/rosetta-siem)
-Translate detection queries between **YARA-L ⇄ KQL ⇄ SPL ⇄ AQL**, in any direction. Zero dependencies, round-trip tested, and it warns explicitly instead of silently mistranslating. Converts 295 of the 298 rules in the YARA-L library.
+Translate detection queries between **YARA-L ⇄ KQL ⇄ SPL ⇄ AQL**, in any direction. Zero dependencies, round-trip tested, and it warns explicitly instead of silently mistranslating. Converts 309 of the 312 rules in the YARA-L library.
 
 </td>
 </tr>
